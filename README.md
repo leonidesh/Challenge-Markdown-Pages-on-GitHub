@@ -23,7 +23,11 @@ Here's the link to [Mizzou tiger Logo][tiger]
 My Information:  
 * Name: Yang Liu
 * ID: 14247300
-* Date: 11/12/2020 
+* Date: 11/12/2020
+* hobby:
+  * Games
+  * Pinao
+  * Basketbal
 
 Here's all the course I enroll this semester:  
 1. IT 1600
